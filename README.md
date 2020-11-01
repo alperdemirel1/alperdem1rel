@@ -13,20 +13,16 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alperdemirel)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alprdmrl)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alperdem1rel/)
-[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alperdemirelceng@gmail.com)](mailto:alperdemirelceng@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/alperdemirelceng@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alperdemirelceng@gmail.com)](mailto:alperdemirelceng@gmail.com)
 
 ### Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
 [![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
 [![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 
-<br />
-<br />
 
 ### Blogs
 
 #### Medium
-* [Veri Bilimi ve ALTIn KenarlarÄ±](https://medium.com/@alperdemirel/veri-bilimi-ve-altin-kenarlar%C4%B1-e1ec4fdce728)
+* [Veri Bilimi ve ALTIn Kenarları](https://medium.com/@alperdemirel/veri-bilimi-ve-altin-kenarlar%C4%B1-e1ec4fdce728)
