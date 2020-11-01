@@ -1,12 +1,12 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=alperdem1rel&show_icons=true">
 
- ## Hi there, I'm Alper Demirel 
+ ## Hi there, I'm Alper Demirel 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperdem1rel" alt="alperdem1rel" /> </p>
 
 ### I'm a Student, Developer, and Computer Engineer Candidate 
-- I'm currently learning machine learning and data science.
-- Goals: I want to be able to improve myself in the areas of artificial intelligence and data science.
+- 🌱 I'm currently learning machine learning and data science.
+- 🥅 Goals: I want to be able to improve myself in the areas of artificial intelligence and data science.
 
 ### Connect with me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alperdemirel/)
@@ -22,7 +22,9 @@
 [![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
 
 
-### Blogs
+<br/>
+
+## 📕 Blogs
 
 #### Medium
 * [Veri Bilimi ve ALTIn Kenarları](https://medium.com/@alperdemirel/veri-bilimi-ve-altin-kenarlar%C4%B1-e1ec4fdce728)
