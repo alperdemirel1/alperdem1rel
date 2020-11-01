@@ -15,7 +15,7 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alperdem1rel/)
 [![Mail Badge](https://img.shields.io/badge/alperdemirelceng@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alperdemirelceng@gmail.com)](mailto:alperdemirelceng@gmail.com)
 
-### Interests
+### Interests:
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
 [![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
