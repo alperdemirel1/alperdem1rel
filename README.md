@@ -1,6 +1,5 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=alperdem1rel&show_icons=true">
 
- ## Hi there, I'm Alper Demirel 👋
+## Hi there, I'm Alper Demirel 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperdem1rel" alt="alperdem1rel" /> </p>
 
