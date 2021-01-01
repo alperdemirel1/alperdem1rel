@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
 [![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
 [![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
-[![](https://img.shields.io/badge/scikit-learn-cD1?style=for-the-badge&logo=scikit-learn)]()
+[![](https://img.shields.io/badge/scikitlearn-cD1?style=for-the-badge&logo=scikitlearn)]()
 
 
 <br/>
