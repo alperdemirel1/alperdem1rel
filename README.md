@@ -17,9 +17,11 @@
 ### Interests:
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
+[![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
 [![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
-[![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
-[![](https://img.shields.io/badge/scikitlearn-cD1?style=for-the-badge&logo=scikitlearn)]()
+[![](https://img.shields.io/badge/scikit-learn-cD1?style=for-the-badge&logo=scikit-learn)]()
+
+
 
 
 <br/>
