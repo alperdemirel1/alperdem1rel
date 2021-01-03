@@ -21,6 +21,8 @@
 [![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
 [![](https://img.shields.io/badge/scikitlearn-cD1?style=for-the-badge&logo=scikit-learn)]()
 
+</p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperdem1rel&layout=compact&hide=html" alt="alperdem1rel" />
+
 
 
 
