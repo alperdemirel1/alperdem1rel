@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperdem1rel" alt="alperdem1rel" /> </p>
 
-### I'm a Lifelong Student, Developer, and Computer Engineer Candidate 
+### I'm a Lifelong Student, Developer, and Computer Engineer 
 - 🌱 I'm currently learning machine learning and data science.
 - 🥅 Goals: I want to be able to improve myself in the areas of artificial intelligence and data science.
 
