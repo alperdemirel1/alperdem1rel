@@ -19,13 +19,11 @@
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
 [![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
 [![](https://img.shields.io/badge/scikitlearn-cD1?style=for-the-badge&logo=scikit-learn)]()
-
+<br>
+<br>
 ![Alper's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperdem1rel&show_icons=true&theme=radical)
 <br>
 <br>
-<br>
-<br>
-<br/>
 
 ## 📕 Blogs
 
