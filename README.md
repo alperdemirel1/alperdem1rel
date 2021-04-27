@@ -21,7 +21,7 @@ Hi there, I'm Alper Demirel 👋
 [![](https://img.shields.io/badge/scikitlearn-cD1?style=for-the-badge&logo=scikit-learn)]()
 <br>
 <br>
-<p align="center">
+<p>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alperdem1rel&theme=tokyonight" />
 </p>
 <br>
