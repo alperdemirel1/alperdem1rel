@@ -17,7 +17,6 @@ Hi there, I'm Alper Demirel 👋
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
-[![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
 [![](https://img.shields.io/badge/scikitlearn-cD1?style=for-the-badge&logo=scikit-learn)]()
 <br>
 <br>
