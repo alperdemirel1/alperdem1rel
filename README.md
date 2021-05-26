@@ -18,6 +18,8 @@ Hi there, I'm Alper Demirel 👋
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
 [![](https://img.shields.io/badge/scikitlearn-cD1?style=for-the-badge&logo=scikit-learn)]()
+[![](https://img.shields.io/badge/jupyter-cD1?style=for-the-badge&logo=jupyter)]()
+[![](https://img.shields.io/badge/postgresql-cD1?style=for-the-badge&logo=postgresql)]()
 <br>
 <br>
 <p>
