@@ -32,4 +32,4 @@ Hi there, I'm Alper Demirel 👋
 
 #### Medium
 * [Veri Bilimi ve ALTIn Kenarları](https://medium.com/@alperdemirel/veri-bilimi-ve-altin-kenarlar%C4%B1-e1ec4fdce728)
-* **Modelinizi Kaydetmenin 3 Yolu(Coming soon)**
+* [Makine Öğrenmesi Modelinizi Kaydetmenin 3 Yolu](https://alperdemirel.medium.com/makine-%C3%B6%C4%9Frenmesi-modelinizi-kaydetmenin-3-yolu-dc970298c45a)
