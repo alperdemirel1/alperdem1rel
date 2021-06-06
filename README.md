@@ -8,7 +8,7 @@ Hi there, I'm Alper Demirel 👋
 
 ### Connect with me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alperdemirel/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alperdemirel)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://alperdemirel.medium.com/)
 [![](https://img.shields.io/badge/datacamp-%03EF62.svg?&style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/profile/alperdemirel)
 [![](https://img.shields.io/badge/hackerrank-%2312100E.svg?&style=for-the-badge&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/alperdemirelceng)
 [![Mail Badge](https://img.shields.io/badge/alperdemirelceng@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alperdemirelceng@gmail.com)](mailto:alperdemirelceng@gmail.com)
