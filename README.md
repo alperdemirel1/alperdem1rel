@@ -28,7 +28,7 @@ Hi there, I'm Alper Demirel 👋
 <br>
 <br>
 
-## 📕 Blogs
+## 📕 Blogs(is Turkish)
 
 #### Medium
 * [Veri Bilimi ve ALTIn Kenarları](https://medium.com/@alperdemirel/veri-bilimi-ve-altin-kenarlar%C4%B1-e1ec4fdce728)
