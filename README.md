@@ -2,9 +2,9 @@ Hi there, I'm Alper Demirel 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperdem1rel" alt="alperdem1rel" /> </p>
 
-### I'm a Lifelong Student, Junior Data Scientist, and Computer Engineer 
+### I'm a Lifelong Learner, Junior Data Scientist, and Computer Engineer 
 - 🌱 I'm currently learning machine learning, data science and AWS.
-- 🥅 Goals: I want to be able to improve myself in the areas of artificial intelligence and data science.
+- 🥅 I want to be able to improve myself in the areas of artificial intelligence and data science.
 
 ### Connect with me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alperdemirel/)
@@ -33,3 +33,5 @@ Hi there, I'm Alper Demirel 👋
 #### Medium
 * [Veri Bilimi ve ALTIn Kenarları](https://medium.com/@alperdemirel/veri-bilimi-ve-altin-kenarlar%C4%B1-e1ec4fdce728)
 * [Makine Öğrenmesi Modelinizi Kaydetmenin 3 Yolu](https://alperdemirel.medium.com/makine-%C3%B6%C4%9Frenmesi-modelinizi-kaydetmenin-3-yolu-dc970298c45a)
+* **Python'daki Bazı Kullanışlı Kütüphaneler** (Coming Soon)
+* **AWS'de Uçtan Uca Makine Öğrenimi** (Coming Soon)
