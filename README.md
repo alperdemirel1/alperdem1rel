@@ -35,3 +35,6 @@ Hi there, I'm Alper Demirel 👋
 * [Makine Öğrenmesi Modelinizi Kaydetmenin 3 Yolu](https://alperdemirel.medium.com/makine-%C3%B6%C4%9Frenmesi-modelinizi-kaydetmenin-3-yolu-dc970298c45a)
 * **DVC ile Verinizi Versiyonlayın!** (Coming Soon)
 * **Verileri İzlemeden Olmaz!** (Coming Soon)
+
+
+![snake svg](https://github.com/alperdem1rel/alperdem1rel/blob/output/github-contribution-grid-snake.svg)
